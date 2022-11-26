@@ -5,8 +5,8 @@ YOLOv4, YOLOv5, PP-YOLO, Scaled YOLOv4, PP-YOLOv2, YOLOv5, YOLOv6, and YOLOv7 (b
 
 Why did I use a YOLO model?
 
-Enables me to process video feeds at a high frames-per-second rate. My computer uses intel integrated graphics, which poses various processing limitations.
+1. Enables me to process video feeds at a high frames-per-second rate. My computer uses intel integrated graphics, which poses various processing limitations.
 
-Continuing R&D from the open-source community. YOLOv7 being the latest addition.
+2. Continuing R&D from the open-source community. YOLOv7 being the latest addition.
 
-No shortage of information or bug removals while implementing a model.
+3. No shortage of information or bug removals while implementing a model.
